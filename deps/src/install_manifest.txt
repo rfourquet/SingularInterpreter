@@ -1,0 +1,1 @@
+/home/schultz/git/SingularInterpreter/local/lib/libsingularwrap.so
